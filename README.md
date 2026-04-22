@@ -1,84 +1,115 @@
+<!--
+  ╔══════════════════════════════════════════════════════════════╗
+  ║           EMPIRE AI TECH · VEER AKASH · GITHUB PROFILE      ║
+  ║           Theme: Empire Sovereign (Custom Brand)             ║
+  ╚══════════════════════════════════════════════════════════════╝
+-->
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0,0D1526,C8A951&height=220&section=header&text=Veer%20Akash&fontSize=64&fontAlignY=38&fontColor=ffffff&desc=Founder%20%26%20CEO%20%C2%B7%20Empire%20AI%20Tech%20%C2%B7%20AI%20%26%20Mathematics%20Expert&descAlignY=58&descAlign=50&descColor=C8A951&descSize=16" width="100%" />
+
+<!-- Animated header wave (decorative only, name is always real text below) -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0,0D1526,1a2d4a,C8A951&height=140&section=header&animation=fadeIn" width="100%" />
+
+</div>
+
+<!-- ═══════════ HERO ═══════════ -->
+
+<div align="center">
+
+<a href="https://empireaitech.com" title="Empire AI Tech">
+  <img src="./assets/empire_logo.png" width="72" height="72" alt="Empire AI Tech" style="border-radius: 12px; margin-bottom: 8px;" />
+</a>
+
+<h1>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=36&pause=99999&color=FFFFFF&center=true&vCenter=true&width=520&lines=Veer+Akash" alt="Veer Akash" />
+</h1>
+
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=15&pause=99999&color=C8A951&center=true&vCenter=true&width=620&lines=Founder+%26+CEO+·+Empire+AI+Tech+·+AI+%26+Mathematics+Expert" alt="Title" />
+</p>
+
+<br/>
+
+<!-- Animated tagline that cycles -->
+<a href="https://github.com/Akash-veer">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&pause=1400&color=00D4FF&center=true&vCenter=true&width=760&lines=Building+Financial+Swaraj+for+India+🇮🇳;Zero-Hallucination+AI+for+the+Retail+Investor;Two-Lane+Inference+·+Sovereign+SLM+%2B+Gemini+Flash;Solo+Founder+·+Full-Stack+·+Mathematics+·+Deep+Learning" alt="Tagline" />
+</a>
+
+<br/><br/>
+
+<!-- Status badges -->
+<img src="https://img.shields.io/badge/⚡_Agentic_AI-Building-C8A951?style=flat-square&labelColor=0D1526" />
+&nbsp;
+<img src="https://img.shields.io/badge/🔒_Sovereign_AI-India_Aligned-00D4FF?style=flat-square&labelColor=0D1526" />
+&nbsp;
+<img src="https://img.shields.io/badge/🇮🇳_Financial_Swaraj-Mission-00C896?style=flat-square&labelColor=0D1526" />
+&nbsp;
+<img src="https://img.shields.io/badge/📐_Math_×_Deep_Learning-Specialist-A78BFA?style=flat-square&labelColor=0D1526" />
+
+<br/><br/>
+
+<!-- Primary CTAs -->
+<a href="https://empireaitech.com">
+  <img src="https://img.shields.io/badge/Empire_AI_Tech-empireaitech.com-C8A951?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1526" alt="Empire AI Tech" />
+</a>
+&nbsp;
+<a href="https://play.google.com/store/apps/details?id=com.empirewealth.app">
+  <img src="https://img.shields.io/badge/Empire_Wealth-Google_Play-00C896?style=for-the-badge&logo=google-play&logoColor=white&labelColor=0D1526" alt="Empire Wealth on Play Store" />
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/veer-akash-math-ai/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+
 </div>
 
 <br/>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Akash-veer/Akash-veer/main/assets/empire_logo.png" width="90" height="90" alt="Empire AI Tech Logo" />
-</div>
+---
 
-<br/>
+## 🏰 The Mission
 
-<div align="center">
-  <a href="https://github.com/Akash-veer">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1200&color=00D4FF&center=true&vCenter=true&width=860&lines=Building+Financial+Swaraj+for+India+%F0%9F%87%AE%F0%9F%87%B3;Zero-Hallucination+AI+for+the+Retail+Investor;Two-Lane+Inference+%7C+Sovereign+SLM+%2B+Gemini+Flash;Solo+Founder+%C2%B7+Full-Stack+%C2%B7+Math+%C2%B7+Deep+Learning" alt="Typing SVG" />
-  </a>
-</div>
+I am on a mission to build the **Atmanirbhar Investor** ecosystem — bridging pure mathematics and advanced neural networks to deploy proprietary **Small Machine Learning (SML)** models that put data sovereignty and user privacy first.
 
-<br/>
+The core product is a **zero-hallucination financial intelligence platform** built for the Indian retail investor. The stack includes a live Web SaaS (AI Stock Reports · SWOT · Concall Summaries · Discovery Engine), the **Empire Wealth** personal finance OS on Google Play, and a proprietary Two-Lane inference backend engineered to solve the cost-of-inference problem at scale.
 
 <div align="center">
-  <img src="https://img.shields.io/badge/%E2%9A%A1_Agentic_AI-Building-C8A951?style=flat-square&labelColor=0D1526" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/%F0%9F%94%92_Sovereign_AI-India_Aligned-00D4FF?style=flat-square&labelColor=0D1526" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/%F0%9F%87%AE%F0%9F%87%B3_Financial_Swaraj-Mission-00C896?style=flat-square&labelColor=0D1526" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/%F0%9F%93%90_Math_%C3%97_Deep_Learning-Specialist-A78BFA?style=flat-square&labelColor=0D1526" />
+
+| 🌐 Web SaaS | 📱 Mobile | 🤖 AI Architecture |
+|:---:|:---:|:---:|
+| [Empire AI Tech](https://empireaitech.com) — AI Stock Intelligence | [Empire Wealth](https://play.google.com/store/apps/details?id=com.empirewealth.app) — Personal Finance OS | BitNet b1.58 · LoRA · Sovereign SLM |
+
 </div>
 
 ---
 
-### 🏰 The Mission
-
-On a mission to build the **Atmanirbhar Investor** ecosystem — bridging pure mathematics and advanced neural networks to deploy proprietary **Small Machine Learning (SML) models** that prioritise data sovereignty and user privacy.
-
-I am building a **zero-hallucination financial intelligence platform** for the Indian retail stock market. The stack: a live Web SaaS (AI Stock Reports · SWOT · Concall Summaries · Discovery Engine), the **Empire Wealth** personal finance OS on Google Play, and a proprietary Two-Lane inference backend that solves the inference cost chasm.
-
-| 🌐 Web SaaS | 📱 Mobile App | 🤖 AI Architecture |
-|---|---|---|
-| [Empire AI Tech](https://empireaitech.com) — AI Stock Intelligence | [Empire Wealth](https://play.google.com/store/apps/details?id=com.empirewealth.app) — Google Play | BitNet b1.58 LoRA · Sovereign SLM |
-
-<div align="center">
-  <a href="https://play.google.com/store/apps/details?id=com.empirewealth.app">
-    <img src="https://img.shields.io/badge/Google_Play-Empire_Wealth-00C896?style=for-the-badge&logo=google-play&logoColor=white&labelColor=0D1526" alt="Download on Google Play" />
-  </a>
-  &nbsp;
-  <a href="https://empireaitech.com">
-    <img src="https://img.shields.io/badge/Web_Platform-Empire_AI_Tech-C8A951?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1526" alt="Empire AI Tech Web" />
-  </a>
-</div>
-
----
-
-### ⚡ Two-Lane AI Architecture
+## ⚡ Two-Lane AI Architecture
 
 ```
-┌─────────────────────────────────────────────────────────────────┐
-│                    INTELLIGENCE ROUTER                          │
-├──────────────────────────┬──────────────────────────────────────┤
-│   LANE 1 · HEAVY COMPUTE │   LANE 2 · INTERACTIVE COMPUTE       │
-│   Gemini 2.5 Flash       │   Proprietary Sovereign SLM          │
-│                          │   BitNet b1.58 · LoRA Fine-tuned     │
-│  • Deep SWOT generation  │  • Platform help & onboarding chat   │
-│  • Concall AI summaries  │  • Concall Q&A (post-summary)        │
-│  • News × Math synthesis │  • Financial term explanations       │
-│  • Future: Multimodal    │  • Near-zero token cost at scale     │
-│    chart visual analysis │  • India AI Mission aligned          │
-└──────────────────────────┴──────────────────────────────────────┘
-   4-Phase Blueprint: Dataset → LoRA → bitnet.cpp → pgvector Cache
+┌──────────────────────────────────────────────────────────────────┐
+│                      INTELLIGENCE ROUTER                         │
+├───────────────────────────────┬──────────────────────────────────┤
+│  LANE 1  ·  HEAVY COMPUTE     │  LANE 2  ·  INTERACTIVE COMPUTE  │
+│  Gemini 2.5 Flash             │  Proprietary Sovereign SLM       │
+│                               │  BitNet b1.58 · LoRA Fine-tuned  │
+│  · Deep SWOT generation       │  · Platform help & onboarding    │
+│  · Concall AI summaries       │  · Concall Q&A (post-summary)    │
+│  · News × Math synthesis      │  · Financial term explanations   │
+│  · Future: Multimodal chart   │  · Near-zero token cost at scale │
+│    visual analysis            │  · India AI Mission aligned      │
+└───────────────────────────────┴──────────────────────────────────┘
+  4-Phase Blueprint: Dataset → LoRA → bitnet.cpp → pgvector Cache
 ```
 
 > *"Static data cached once, served free. Dynamic hyper-personalised queries are the real compute problem — and we're engineering it away."*
 
 ---
 
-### 🛠️ Tech Stack & Arsenal
+## 🛠️ Tech Stack
 
 <div align="center">
 
-**Core Languages & Frameworks**
+**Languages & Frameworks**
 
 [![Skills](https://skillicons.dev/icons?i=python,flutter,nodejs,nextjs,fastapi,typescript&theme=dark)](https://skillicons.dev)
 
@@ -105,7 +136,7 @@ I am building a **zero-hallucination financial intelligence platform** for the I
 
 ---
 
-### 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Akash-veer&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1526&title_color=C8A951&icon_color=00D4FF&text_color=8A95A8&ring_color=C8A951" width="48%" alt="GitHub Stats" />
@@ -122,39 +153,43 @@ I am building a **zero-hallucination financial intelligence platform** for the I
 
 ---
 
-### 🏆 Currently Active
+## 🚀 Currently Building
 
-- 🚀 **Empire AI Tech Web SaaS** — 90% complete, public launch in days. AI Stock Reports, Concall Summaries, Discovery Engine, SWOT Analysis
-- 📱 **Empire Wealth** — [Live on Google Play](https://play.google.com/store/apps/details?id=com.empirewealth.app). Personal finance OS, 100% offline, privacy-first
-- 🤖 **Anthropic Hackathon** — *Built with Opus 4.7*: Educational Data Forge for SEBI/NISM certification knowledge bases
-- 🇮🇳 **Sovereign SLM** — LoRA fine-tuning BitNet b1.58 on Vertex AI A100 for near-zero interactive inference
+| Status | Project | Description |
+|:---:|---|---|
+| 🟡 **90%** | **Empire AI Tech Web SaaS** | AI Stock Reports · Concall Summaries · Discovery Engine · SWOT Analysis. Public launch imminent. |
+| 🟢 **Live** | **Empire Wealth** | [Available on Google Play](https://play.google.com/store/apps/details?id=com.empirewealth.app). Personal finance OS built 100% offline, privacy-first. |
+| 🏆 **Hackathon** | **Anthropic Hackathon** | Educational Data Forge for SEBI/NISM certification knowledge bases, built with Claude Opus 4. |
+| 🔬 **Research** | **Sovereign SLM** | LoRA fine-tuning BitNet b1.58 on Vertex AI A100 for near-zero interactive inference. |
 
 ---
 
-### 📫 Connect with the Builder
+## 📫 Let's Connect
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-akash%40empireaitech.com-C8A951?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1526)](mailto:akash@empireaitech.com)
+[![Email](https://img.shields.io/badge/akash%40empireaitech.com-C8A951?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1526)](mailto:akash@empireaitech.com)
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/veer-akash-math-ai/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-veer--akash--math--ai-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/veer-akash-math-ai/)
 &nbsp;
 [![Website](https://img.shields.io/badge/Empire_AI_Tech-empireaitech.com-00C896?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1526)](https://empireaitech.com)
-&nbsp;
-[![Play Store](https://img.shields.io/badge/Empire_Wealth-Google_Play-00C896?style=for-the-badge&logo=google-play&logoColor=white&labelColor=0D1526)](https://play.google.com/store/apps/details?id=com.empirewealth.app)
 
-</div>
+<br/>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Akash-veer&color=C8A951&style=flat-square&label=Profile+Views" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=Akash-veer&color=C8A951&style=flat-square&label=Profile+Views" alt="Profile Views" />
+
 </div>
 
 ---
 
 <div align="center">
-  <em>"I didn't outsource the math. I built it." — The Empire AI Founding Principle</em>
+  <em>"I didn't outsource the math. I built it."</em>
+  <br/>
+  <strong>— The Empire AI Founding Principle</strong>
 </div>
 
+<br/>
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0,C8A951,0D1526&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0,C8A951,1a2d4a,0D1526&height=100&section=footer&animation=fadeIn" width="100%" />
 </div>
